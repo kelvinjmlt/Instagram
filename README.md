@@ -21,3 +21,11 @@ python3 scripts/contact-sheet.py posts/<pasta> previa.png       # prévia em gra
 ```
 
 O script avisa se algum slide tiver texto transbordando.
+
+## Arte animada (vídeo)
+
+Para animar uma arte pronta (ex.: `posts/2026-chimpanzes-roubo-animado/`):
+
+1. `python3 scripts/remove-text.py original.png fundo.png <y_do_texto> [x0,y0,x1,y1]` apaga o texto da foto (requer `opencv-python-headless`).
+2. O texto é recriado em `animacao.html`, com animações CSS.
+3. `node scripts/render-video.js animacao.html saida.mp4 9 30` grava o MP4 (H.264, 30 fps) quadro a quadro.
