@@ -1,0 +1,128 @@
+{
+  "area": "Biologia molecular",
+  "date": "05/10/2026",
+  "emoji": "🧬",
+  "accent": "#7084F0",
+  "sources": [
+    "Nature Cell Biology (2026): ADAR1 e FTSJ1 como reguladores da substituição triptofano→fenilalanina no câncer",
+    "Contexto: Pataskar et al. Nature (2022), “Tryptophan depletion results in tryptophan-to-phenylalanine substitutants”"
+  ],
+  "quizAnswer": {
+    "letter": "C",
+    "why": "Gene e mRNA continuam iguais. A troca acontece na tradução, então muda a sequência de aminoácidos da proteína."
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "emoji": "🧬",
+      "title": "Quando falta triptofano, o câncer troca uma peça das proteínas",
+      "subtitle": "Células tumorais colocam **fenilalanina** onde deveria haver triptofano, **sem mudar uma letra do DNA**.",
+      "hook": "Entenda como, passo a passo →"
+    },
+    {
+      "type": "text",
+      "label": "Relembrando",
+      "title": "Como uma proteína é montada",
+      "bullets": [
+        "O DNA é transcrito em **mRNA**, lido em trincas de bases: os **códons**.",
+        "Cada **tRNA** leva um aminoácido ao ribossomo e reconhece um códon específico.",
+        "Enzimas chamadas **aminoacil-tRNA sintetases** carregam cada tRNA com o aminoácido certo. A do triptofano é a **WARS1**.",
+        "O triptofano tem **um único códon: UGG**."
+      ]
+    },
+    {
+      "type": "text",
+      "label": "O cenário",
+      "title": "Um tumor com pouco triptofano",
+      "paragraphs": [
+        "Quando o sistema imune ataca um tumor, sinais inflamatórios (como o **interferon-γ**) ativam enzimas que **degradam o triptofano**.",
+        "Resultado: o tumor fica com escassez desse aminoácido. Seria de esperar que a produção de proteínas travasse nos códons UGG. Mas não é o que acontece."
+      ],
+      "art": "🛡️⚔️"
+    },
+    {
+      "type": "steps",
+      "label": "O mecanismo",
+      "title": "O que a célula faz no lugar",
+      "steps": [
+        { "title": "Falta triptofano (W)", "text": "O tRNA do triptofano fica sem seu aminoácido." },
+        { "title": "Carregamento errado", "text": "O tRNA do triptofano é carregado com **fenilalanina (F)**." },
+        { "title": "O ribossomo segue em frente", "text": "Lê o códon UGG e encaixa fenilalanina." },
+        { "title": "Proteína alterada", "text": "Surge um **“substitutante” W>F**: mesma receita, peça trocada." }
+      ]
+    },
+    {
+      "type": "text",
+      "label": "A novidade do estudo",
+      "title": "Duas enzimas comandam a troca",
+      "bullets": [
+        "**FTSJ1** adiciona uma marca química (metilação) ao **tRNA do triptofano**. Essa modificação permite que ele seja carregado por engano com fenilalanina.",
+        "**ADAR1** sustenta essa tradução “errada” por meio do **controle de qualidade do ribossomo**, mecanismo que lida com ribossomos que travam durante a tradução."
+      ],
+      "art": "🔬"
+    },
+    {
+      "type": "compare",
+      "label": "Não confunda",
+      "title": "Mutante × substitutante",
+      "columns": [
+        {
+          "title": "Mutante",
+          "items": [
+            "Alteração **no DNA**",
+            "Passa para as células-filhas",
+            "Está presente independentemente do ambiente"
+          ]
+        },
+        {
+          "title": "Substitutante",
+          "highlight": true,
+          "items": [
+            "DNA e mRNA **intactos**",
+            "A troca ocorre **na tradução**",
+            "Depende do ambiente: surge com a **falta de triptofano**"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "label": "Por que isso importa",
+      "title": "Diversidade de proteínas sem nenhuma mutação",
+      "text": "O **proteoma** do tumor ganha variações sem que nenhum gene mude. O fluxo DNA → RNA → proteína tem mais flexibilidade do que os livros costumam mostrar.",
+      "bullets": [
+        "Algumas proteínas alteradas geram **neoepítopos**: fragmentos novos que **células T** reconhecem.",
+        "Isso abre caminho para estudar FTSJ1 e ADAR1 como alvos e para novas ideias em **imunoterapia**. Ainda é pesquisa básica."
+      ]
+    },
+    {
+      "type": "glossary",
+      "terms": [
+        { "term": "Códon", "def": "Trinca de bases do mRNA que corresponde a um aminoácido ou a um sinal de parada." },
+        { "term": "tRNA", "def": "RNA transportador: leva o aminoácido e reconhece o códon pelo anticódon." },
+        { "term": "Aminoacil-tRNA sintetase", "def": "Enzima que liga cada aminoácido ao seu tRNA. A WARS1 cuida do triptofano." },
+        { "term": "Proteoma", "def": "Conjunto de todas as proteínas produzidas por uma célula." },
+        { "term": "Neoepítopo", "def": "Fragmento de proteína novo, ausente em células normais, que o sistema imune pode reconhecer." }
+      ]
+    },
+    {
+      "type": "quiz",
+      "question": "Em um substitutante W>F, o que está alterado?",
+      "options": [
+        "A sequência do gene no DNA",
+        "A sequência de bases do mRNA",
+        "A sequência de aminoácidos da proteína",
+        "O número de cromossomos da célula"
+      ]
+    },
+    {
+      "type": "end",
+      "title": "Biologia molecular é cheia de surpresas",
+      "cta": [
+        "💾 Salve para revisar síntese proteica",
+        "📤 Envie para quem está estudando genética",
+        "💬 Comente sua resposta do teste"
+      ]
+    }
+  ]
+}

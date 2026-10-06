@@ -1,0 +1,141 @@
+{
+  "area": "Biologia celular · Envelhecimento",
+  "date": "05/10/2026",
+  "emoji": "🧟",
+  "accent": "#46B39E",
+  "sources": [
+    "Sereda, Cuervo et al. Nature Aging (2026): “Decline of chaperone-mediated autophagy in aging impairs macrophage clearance of senescent cells”",
+    "Albert Einstein College of Medicine, via Medical Xpress"
+  ],
+  "quizAnswer": {
+    "letter": "A",
+    "why": "Os macrófagos fazem fagocitose: reconhecem e englobam as células senescentes. Com menos CMA, eles fazem isso pior."
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "emoji": "🧟",
+      "title": "Por que as “células zumbis” se acumulam com a idade",
+      "subtitle": "Um sistema de **reciclagem de proteínas** que enfraquece com o tempo deixa essas células escaparem da limpeza do corpo.",
+      "hook": "Entenda o círculo vicioso →"
+    },
+    {
+      "type": "text",
+      "label": "Quem são as “zumbis”",
+      "title": "Células senescentes: nem vivas de verdade, nem mortas",
+      "bullets": [
+        "**Param de se dividir** de forma permanente, mas **não morrem**.",
+        "Liberam moléculas **inflamatórias** que podem danificar o tecido e tornar senescentes as células vizinhas.",
+        "Em organismos jovens, o sistema imune, principalmente os **macrófagos**, remove essas células. Com a idade, elas se acumulam."
+      ],
+      "art": "🧟‍♂️"
+    },
+    {
+      "type": "text",
+      "label": "O outro protagonista",
+      "title": "CMA: a reciclagem seletiva da célula",
+      "paragraphs": [
+        "A **autofagia mediada por chaperonas (CMA)** é uma forma de autofagia em que proteínas “acompanhantes”, as **chaperonas**, reconhecem proteínas danificadas ou desnecessárias, uma a uma.",
+        "Elas levam essas proteínas até o **lisossomo**, onde são digeridas e recicladas. A atividade da CMA **cai com o envelhecimento**."
+      ],
+      "art": "♻️"
+    },
+    {
+      "type": "steps",
+      "label": "A descoberta",
+      "title": "O círculo vicioso",
+      "steps": [
+        { "title": "A idade reduz a CMA", "text": "Células senescentes de animais velhos não conseguem aumentar sua CMA." },
+        { "title": "Lixo proteico mal digerido", "text": "Elas passam a secretar substâncias que “zumbificam” vizinhas e atrapalham o reconhecimento imune." },
+        { "title": "Macrófagos enfraquecidos", "text": "Essas secreções e a própria idade reduzem a CMA dos macrófagos." },
+        { "title": "Menos limpeza", "text": "Os macrófagos englobam menos zumbis, que se acumulam nos tecidos." }
+      ]
+    },
+    {
+      "type": "stats",
+      "label": "O experimento",
+      "title": "Reativando a reciclagem em camundongos idosos",
+      "stats": [
+        { "value": "CA77.1", "label": "molécula que **ativa a CMA**, dada por via oral" },
+        { "value": "5 meses", "label": "de tratamento diário em camundongos idosos" }
+      ],
+      "note": "Resultado: **menos células senescentes** em vários órgãos, menos sinais de inflamação e fibrose, e macrófagos voltando a englobar zumbis como em animais jovens. Tratada cedo após uma lesão pulmonar, a fibrose ficou menos grave."
+    },
+    {
+      "type": "text",
+      "label": "E em humanos?",
+      "title": "Uma pista em pulmões de pacientes",
+      "paragraphs": [
+        "Amostras de pulmão de pessoas com **fibrose pulmonar idiopática** mostraram **atividade de CMA muito reduzida**.",
+        "Isso combina com o que foi visto nos camundongos, mas é uma **observação em tecido**: nenhum tratamento foi testado em pessoas."
+      ],
+      "art": "🫁"
+    },
+    {
+      "type": "callout",
+      "label": "Por que isso importa",
+      "title": "Dois motores do envelhecimento no mesmo circuito",
+      "text": "O estudo liga a **perda da proteostase** (o controle de qualidade das proteínas) à **senescência celular**, duas marcas clássicas do envelhecimento.",
+      "bullets": [
+        "Nova estratégia: em vez de **matar** as células zumbis, **restaurar a capacidade do próprio corpo** de removê-las."
+      ],
+      "quote": {
+        "text": "Ao restaurar a reciclagem celular, talvez possamos ajudar as defesas do próprio corpo a eliminar essas células de forma mais eficaz.",
+        "by": "Ana Maria Cuervo, Albert Einstein College of Medicine"
+      }
+    },
+    {
+      "type": "compare",
+      "label": "Pé no chão",
+      "title": "O que o estudo mostra e o que não mostra",
+      "columns": [
+        {
+          "title": "Mostra",
+          "highlight": true,
+          "items": [
+            "Um mecanismo celular do acúmulo de zumbis",
+            "Benefícios de ativar a CMA **em camundongos**",
+            "CMA reduzida em pulmões humanos doentes"
+          ]
+        },
+        {
+          "title": "Não mostra",
+          "items": [
+            "Uma terapia antienvelhecimento disponível",
+            "Segurança ou eficácia em pessoas",
+            "Que suplementos “ativam” esse sistema"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "glossary",
+      "terms": [
+        { "term": "Senescência celular", "def": "Parada permanente da divisão celular, com a célula ainda viva e metabolicamente ativa." },
+        { "term": "Autofagia", "def": "Processo em que a célula degrada e recicla seus próprios componentes nos lisossomos." },
+        { "term": "Chaperonas", "def": "Proteínas que ajudam outras proteínas a se dobrar, ou as encaminham para degradação." },
+        { "term": "Macrófago", "def": "Célula de defesa que faz **fagocitose**: engloba e digere partículas e células." },
+        { "term": "Fibrose", "def": "Acúmulo excessivo de tecido cicatricial, que endurece o órgão e prejudica sua função." }
+      ]
+    },
+    {
+      "type": "quiz",
+      "question": "Qual é o papel dos macrófagos nessa história?",
+      "options": [
+        "Fagocitar (englobar) as células senescentes",
+        "Produzir as proteínas danificadas",
+        "Dividir-se no lugar das células senescentes",
+        "Secretar o colágeno que forma a fibrose"
+      ]
+    },
+    {
+      "type": "end",
+      "title": "Envelhecer também é biologia celular",
+      "cta": [
+        "💾 Salve para revisar organelas e defesa",
+        "📤 Envie para quem curte ciência do envelhecimento",
+        "💬 Comente sua resposta do teste"
+      ]
+    }
+  ]
+}

@@ -1,14 +1,23 @@
 # Instagram: posts de divulgação científica
 
-Cada post fica em `posts/<data>-<tema>/`:
+Cada notícia vira um carrossel próprio em `posts/<data>-<n>-<tema>/`:
 
-- `content.json`: texto dos slides
+- `content.json`: texto e estrutura dos slides
 - `legenda.md`: legenda pronta para colar no Instagram (limite: 2.200 caracteres)
 - `slides/*.png`: carrossel 1080×1350 gerado
 
-Para gerar ou atualizar os slides depois de editar `content.json`:
+## Estrutura padrão de um carrossel
+
+Capa → contexto/conceito básico → método → resultados → por que importa → limites do estudo → glossário → teste rápido → fechamento com gabarito e fontes.
+
+Tipos de slide aceitos em `content.json`: `cover`, `text`, `steps`, `stats`, `compare`, `callout`, `glossary`, `quiz` e `end`. Os textos aceitam `**negrito**` e `*itálico*`. O campo opcional `art` coloca um emoji ilustrativo no canto inferior.
+
+## Gerar os slides
 
 ```bash
 npm install playwright   # se ainda não estiver instalado
-node scripts/render.js posts/2026-10-05-descobertas-biologia
+node scripts/render.js posts/2026-10-05-1-bovino-era-do-gelo   # uma ou várias pastas
+python3 scripts/contact-sheet.py posts/<pasta> previa.png       # prévia em grade (opcional)
 ```
+
+O script avisa se algum slide tiver texto transbordando.

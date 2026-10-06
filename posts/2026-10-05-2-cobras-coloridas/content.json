@@ -1,0 +1,161 @@
+{
+  "area": "Evolução · Comportamento animal",
+  "date": "05/10/2026",
+  "emoji": "🐍",
+  "accent": "#E5533F",
+  "sources": [
+    "Duclaux, Healy et al. Journal of Animal Ecology (2026). DOI: 10.1111/1365-2656.70351",
+    "University of Galway, via EurekAlert! e Phys.org"
+  ],
+  "quizAnswer": {
+    "letter": "C",
+    "why": "Uma cor fácil de reconhecer ajuda o predador a aprender, ou a evoluir para, evitar a presa perigosa. Isso é aposematismo."
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "emoji": "🐍",
+      "title": "Ser venenosa pode ter favorecido cores que deixam a cobra mais visível",
+      "subtitle": "Um estudo com **mais de 450 espécies** mostra que serpentes peçonhentas (as “venenosas” do dia a dia) tendem a se destacar no ambiente.",
+      "hook": "Esconder ou anunciar? Arraste →"
+    },
+    {
+      "type": "text",
+      "label": "A ideia por trás",
+      "title": "Aposematismo: o aviso que a natureza entende",
+      "paragraphs": [
+        "Muitos animais perigosos ou de gosto ruim exibem cores fortes em vez de se camuflar. Pense na **joaninha**, na **vespa** ou nos **sapos-ponta-de-flecha**.",
+        "Isso se chama **aposematismo**: um sinal de alerta. O predador que leva um susto aprende a evitar aquele padrão, ou populações de predadores evoluem para evitá-lo."
+      ],
+      "art": "🐞🐝🐸"
+    },
+    {
+      "type": "steps",
+      "label": "Como foi feito",
+      "title": "O método da pesquisa",
+      "steps": [
+        {
+          "title": "Mais de 450 espécies",
+          "text": "Serpentes de várias partes do mundo, peçonhentas e não peçonhentas."
+        },
+        {
+          "title": "Milhares de fotos na natureza",
+          "text": "Imagens do **iNaturalist**, plataforma de ciência cidadã."
+        },
+        {
+          "title": "Espécimes de museu",
+          "text": "Usados para medir as cores com precisão."
+        },
+        {
+          "title": "Cobra × ambiente",
+          "text": "Comparação do contraste entre o animal e o fundo onde ele vive."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "label": "O resultado",
+      "title": "As peçonhentas se destacam mais",
+      "bullets": [
+        "Espécies peçonhentas tiveram **contraste significativamente maior** com o ambiente do que as não peçonhentas.",
+        "**Vermelho e amarelo** foram especialmente eficazes para fazer a cobra se destacar do fundo natural.",
+        "É uma evidência comparativa em **grande escala** de que veneno e coloração de alerta evoluíram associados."
+      ],
+      "art": "🔴🟡"
+    },
+    {
+      "type": "text",
+      "label": "O detalhe que faz diferença",
+      "title": "Ser chamativa depende do lugar",
+      "paragraphs": [
+        "O título do artigo fala em espécies **“contextualmente chamativas”**: uma cor que camufla num ambiente pode saltar aos olhos em outro.",
+        "Por isso a equipe não olhou só a cor da cobra, mas **como ela aparece no habitat** onde evoluiu."
+      ],
+      "quote": {
+        "text": "Fotografias feitas na natureza são essenciais para entender como essas cores aparecem nos ambientes onde evoluíram.",
+        "by": "Kevin Healy, University of Galway"
+      }
+    },
+    {
+      "type": "callout",
+      "label": "Por que isso importa",
+      "title": "Quando atacar é perigoso, ser reconhecível compensa",
+      "text": "O estudo dá suporte, em larga escala, a uma ideia clássica da evolução: o sinal de alerta beneficia **tanto a presa quanto o predador**, que evitam um encontro custoso.",
+      "bullets": [
+        "Mostra também o poder da **ciência cidadã**: fotos de qualquer pessoa viraram dados científicos."
+      ],
+      "quote": {
+        "text": "Em vez de se esconder dos predadores, algumas cobras peçonhentas parecem anunciar que são perigosas.",
+        "by": "Amy Duclaux, University of Galway"
+      }
+    },
+    {
+      "type": "compare",
+      "label": "Atenção: não é regra",
+      "title": "Cor não serve para identificar cobra",
+      "columns": [
+        {
+          "title": "O estudo NÃO diz",
+          "items": [
+            "Que toda cobra peçonhenta é colorida",
+            "Que toda cobra colorida é peçonhenta",
+            "Que dá para saber o risco pela cor"
+          ]
+        },
+        {
+          "title": "Na prática",
+          "highlight": true,
+          "items": [
+            "Muitas peçonhentas são **camufladas**, como as jararacas",
+            "**Falsas-corais** imitam o padrão das corais-verdadeiras",
+            "Nunca manuseie uma serpente. Em caso de picada, procure atendimento"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "glossary",
+      "terms": [
+        {
+          "term": "Aposematismo",
+          "def": "Coloração ou sinal de alerta que anuncia que o animal é perigoso ou impalatável."
+        },
+        {
+          "term": "Camuflagem (cripse)",
+          "def": "Estratégia oposta: confundir-se com o ambiente para não ser visto."
+        },
+        {
+          "term": "Mimetismo",
+          "def": "Quando uma espécie imita o sinal de outra, como a falsa-coral imitando a coral-verdadeira."
+        },
+        {
+          "term": "Peçonhento × venenoso",
+          "def": "Peçonhento **injeta** a toxina (presas, ferrão). Venenoso tem toxina, mas não a inocula. Serpentes são peçonhentas."
+        },
+        {
+          "term": "Ciência cidadã",
+          "def": "Participação do público na coleta de dados científicos."
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "question": "Por que ser chamativa pode ser vantajoso para uma cobra peçonhenta?",
+      "options": [
+        "Porque atrai mais presas para perto",
+        "Porque ajuda a regular a temperatura do corpo",
+        "Porque predadores aprendem ou evoluem para evitá-la",
+        "Porque a cor intensa produz o veneno"
+      ]
+    },
+    {
+      "type": "end",
+      "title": "Sabia dessa?",
+      "cta": [
+        "💾 Salve para usar em aula ou revisar",
+        "📤 Envie para quem tem medo de cobra",
+        "💬 Comente sua resposta do teste"
+      ]
+    }
+  ]
+}

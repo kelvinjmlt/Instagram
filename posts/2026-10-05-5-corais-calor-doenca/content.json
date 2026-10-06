@@ -1,0 +1,124 @@
+{
+  "area": "Ecologia · Conservação",
+  "date": "05/10/2026",
+  "emoji": "🪸",
+  "accent": "#F0896B",
+  "sources": [
+    "Nivison, Porter et al. Coral Reefs (2026): “Coral mortality in a mass bleaching event influenced by proximity to diseased tissue and reef topography”",
+    "University of Georgia (Odum School of Ecology), via Phys.org"
+  ],
+  "quizAnswer": {
+    "letter": "D",
+    "why": "Com o calor, o coral expulsa as algas simbiontes (zooxantelas) que lhe dão cor e energia. O esqueleto branco fica visível e, se o estresse dura, o coral morre de fome."
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "emoji": "🪸",
+      "title": "Calor + doença: risco de morte quase 4× maior para os corais",
+      "subtitle": "A onda de calor recorde de 2023 na Flórida mostrou que **estressores juntos** são muito piores do que separados.",
+      "hook": "Veja os números →"
+    },
+    {
+      "type": "stats",
+      "label": "O cenário",
+      "title": "O verão mais quente já registrado nas Florida Keys",
+      "stats": [
+        { "value": "31 °C+", "label": "temperatura da água do mar" },
+        { "value": "41 dias", "label": "seguidos acima desse limite, um recorde para a região" }
+      ],
+      "note": "O resultado foi um **branqueamento em massa** dos corais. Segundo os pesquisadores, todos os verões desde então tiveram calor parecido e prolongado."
+    },
+    {
+      "type": "text",
+      "label": "Relembrando",
+      "title": "O que é o branqueamento",
+      "bullets": [
+        "Corais vivem em **simbiose** com algas microscópicas, as **zooxantelas**, que fazem fotossíntese e fornecem a maior parte da energia do coral.",
+        "Com o calor excessivo, o coral **expulsa as algas** e fica branco.",
+        "Se o estresse dura muito, ele **morre de fome**."
+      ],
+      "art": "🌡️"
+    },
+    {
+      "type": "steps",
+      "label": "Como foi feito",
+      "title": "Mapeando o recife em 3D",
+      "steps": [
+        { "title": "Mapeamento subaquático", "text": "Equipe da Universidade da Geórgia (EUA) nos recifes das Florida Keys." },
+        { "title": "Imagens 3D de alta resolução", "text": "Fotos em camadas formam modelos tridimensionais das colônias." },
+        { "title": "Tecido por tecido", "text": "Compararam a sobrevivência de tecido doente, tecido vizinho à doença e tecido saudável distante." }
+      ]
+    },
+    {
+      "type": "stats",
+      "label": "O resultado",
+      "title": "A doença multiplica o efeito do calor",
+      "stats": [
+        { "value": "3,8×", "label": "maior risco de morte nas **lesões de doença** em relação ao tecido inicialmente saudável" },
+        { "value": "1,5×", "label": "maior risco no **tecido saudável vizinho** à doença" }
+      ],
+      "note": "Comparado a tecido saudável longe da doença, o tecido vizinho teve quase o **dobro** de chance de morrer."
+    },
+    {
+      "type": "text",
+      "label": "A maior vítima",
+      "title": "O coral-chifre-de-alce",
+      "paragraphs": [
+        "A espécie *Acropora palmata* já foi **o coral mais comum do Caribe** e é fundamental para construir recifes e proteger a costa.",
+        "Na onda de calor de 2023, ela sofreu **perdas catastróficas** nas Florida Keys."
+      ],
+      "art": "🫎"
+    },
+    {
+      "type": "text",
+      "label": "Onde há esperança",
+      "title": "A borda do recife resistiu melhor",
+      "bullets": [
+        "Corais na **borda do recife** sobreviveram mais.",
+        "Ali, o **movimento da água** remove resíduos metabólicos e melhora a alimentação dos corais.",
+        "Para a **restauração**: priorizar esses locais e proteger a **qualidade da água**."
+      ],
+      "art": "🌊"
+    },
+    {
+      "type": "callout",
+      "label": "Por que isso importa",
+      "title": "Os estressores não agem sozinhos",
+      "text": "Mudanças climáticas e doenças **se amplificam**. Proteger os corais exige combater várias ameaças ao mesmo tempo, não só o aquecimento.",
+      "quote": {
+        "text": "Quando os corais enfrentam ameaças de várias fontes ao mesmo tempo, sem surpresa, fica mais difícil sobreviver.",
+        "by": "Camilla Nivison, University of Georgia"
+      }
+    },
+    {
+      "type": "glossary",
+      "terms": [
+        { "term": "Onda de calor marinha", "def": "Período prolongado de temperatura do mar muito acima do normal." },
+        { "term": "Zooxantelas", "def": "Algas simbiontes que vivem nos tecidos do coral e fazem fotossíntese." },
+        { "term": "Branqueamento", "def": "Perda das zooxantelas por estresse, deixando o coral branco e sem energia." },
+        { "term": "Efeito sinérgico", "def": "Quando fatores combinados causam um efeito maior do que cada um isolado." },
+        { "term": "Restauração ecológica", "def": "Ações para recuperar um ecossistema degradado, como replantar fragmentos de coral." }
+      ]
+    },
+    {
+      "type": "quiz",
+      "question": "Por que o coral fica branco durante o branqueamento?",
+      "options": [
+        "Porque morre instantaneamente com o calor",
+        "Porque acumula sal sobre o esqueleto",
+        "Porque produz mais calcário para se proteger",
+        "Porque expulsa as algas simbiontes que lhe dão cor"
+      ]
+    },
+    {
+      "type": "end",
+      "title": "Os recifes precisam de atenção",
+      "cta": [
+        "💾 Salve para revisar ecologia e simbiose",
+        "📤 Envie para quem ama o mar",
+        "💬 Comente sua resposta do teste"
+      ]
+    }
+  ]
+}

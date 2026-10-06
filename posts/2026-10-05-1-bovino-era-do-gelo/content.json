@@ -1,0 +1,166 @@
+{
+  "area": "Evolução · Paleogenômica",
+  "date": "05/10/2026",
+  "emoji": "🦬",
+  "accent": "#D6973F",
+  "sources": [
+    "Gilardet, Oppenheimer, Dalén et al. Current Biology (2026). DOI: 10.1016/j.cub.2026.09.043",
+    "Centro de Paleogenética (Univ. de Estocolmo / Museu Sueco de História Natural), via EurekAlert! e Phys.org"
+  ],
+  "quizAnswer": {
+    "letter": "B",
+    "why": "Viver na mesma região que bisões e auroques e quase não cruzar com eles indica isolamento reprodutivo, um forte sinal de espécie própria."
+  },
+  "slides": [
+    {
+      "type": "cover",
+      "emoji": "🦬",
+      "title": "Um grande bovino da Era do Gelo que ninguém sabia que existia",
+      "subtitle": "Ele foi descoberto sem nenhum esqueleto completo: só pelo **DNA de pedacinhos de osso** da Sibéria.",
+      "hook": "Como isso é possível? Arraste →"
+    },
+    {
+      "type": "text",
+      "label": "O ponto de partida",
+      "title": "Ossos pequenos demais para contar uma história",
+      "paragraphs": [
+        "Na **Caverna de Denisova**, nos montes Altai (sul da Sibéria), a maioria dos ossos encontrados é só fragmento: pedaços quebrados que não permitem saber, pela forma, a que espécie pertenciam.",
+        "Os paleontólogos chamam esses restos de **não diagnósticos**. Por isso a equipe deixou a forma de lado e foi direto ao DNA preservado dentro deles."
+      ],
+      "art": "🦴🧬"
+    },
+    {
+      "type": "stats",
+      "label": "O que a equipe obteve",
+      "title": "Os números da descoberta",
+      "stats": [
+        {
+          "value": "20",
+          "label": "genomas antigos sequenciados a partir dos ossos"
+        },
+        {
+          "value": "200 mil",
+          "label": "anos de história cobertos pelas amostras"
+        },
+        {
+          "value": "27 mil",
+          "label": "anos: a idade do exemplar mais recente"
+        },
+        {
+          "value": "≈0",
+          "label": "sinais de cruzamento com bisões-da-estepe ou auroques"
+        }
+      ],
+      "note": "Ossos da Caverna de Denisova e de outros sítios da região Altai–Sayan."
+    },
+    {
+      "type": "steps",
+      "label": "Linha do tempo",
+      "title": "Como a linhagem surgiu e sumiu",
+      "steps": [
+        {
+          "n": "400 mil",
+          "title": "Começa a divergir dos iaques",
+          "text": "As populações iniciam a separação genética."
+        },
+        {
+          "n": "250 mil",
+          "title": "Separação completa",
+          "text": "Já é uma linhagem geneticamente bem distinta."
+        },
+        {
+          "n": "120 mil",
+          "title": "Último período interglacial",
+          "text": "Uma população é substituída por outra e a diversidade genética cai."
+        },
+        {
+          "n": "27 mil",
+          "title": "Último registro conhecido",
+          "text": "Depois disso, ela desaparece. Quando e por que, ainda não se sabe."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "label": "Quem era esse animal?",
+      "title": "Parente dos iaques, mas não um iaque",
+      "bullets": [
+        "Hoje os iaques vivem só nas partes altas do **Planalto Tibetano**. Esse parente extinto ocupava as montanhas do sul da Sibéria.",
+        "O DNA mostra uma **linhagem irmã** dos iaques atuais, que seguiu um caminho evolutivo próprio por centenas de milhares de anos.",
+        "Ele dividia a região com bisões e auroques, mas **quase não cruzou** com eles: um forte indício de isolamento reprodutivo."
+      ],
+      "art": "🐂"
+    },
+    {
+      "type": "callout",
+      "label": "Por que isso importa",
+      "title": "Espécies inteiras podem estar escondidas nas gavetas dos museus",
+      "text": "O DNA antigo consegue revelar espécies que a paleontologia tradicional, baseada na **anatomia dos ossos**, não enxergaria.",
+      "bullets": [
+        "Os montes Altai se confirmam como um **refúgio da Era do Gelo** e um ponto de alta biodiversidade.",
+        "É o mesmo lugar onde os **denisovanos** foram descobertos pelo DNA de um fragmento de osso de dedo."
+      ],
+      "quote": {
+        "text": "Esta é uma descoberta notável de uma grande espécie extinta a partir de pequenos ossos não diagnósticos.",
+        "by": "Love Dalén, Centro de Paleogenética, Estocolmo"
+      }
+    },
+    {
+      "type": "text",
+      "label": "Cuidado com o exagero",
+      "title": "Por que a espécie ainda não tem nome?",
+      "paragraphs": [
+        "Para nomear formalmente uma espécie, os cientistas precisam de um **exemplar de referência** com características anatômicas que a definam. Só o DNA não basta para isso."
+      ],
+      "bullets": [
+        "Próximo passo: comparar o DNA com **restos parecidos com iaques** já descritos na região.",
+        "Ainda **não se sabe quando nem por que** ela se extinguiu."
+      ],
+      "art": "🔍"
+    },
+    {
+      "type": "glossary",
+      "terms": [
+        {
+          "term": "Paleogenômica",
+          "def": "Estudo de genomas de organismos antigos, recuperados de ossos, dentes ou sedimentos."
+        },
+        {
+          "term": "DNA antigo",
+          "def": "DNA degradado e fragmentado de restos com milhares de anos, que exige técnicas especiais de leitura."
+        },
+        {
+          "term": "Divergência",
+          "def": "Processo em que duas populações acumulam diferenças genéticas até se separarem."
+        },
+        {
+          "term": "Isolamento reprodutivo",
+          "def": "Ausência de cruzamento entre grupos. É um dos critérios do conceito biológico de espécie."
+        },
+        {
+          "term": "Interglacial",
+          "def": "Período mais quente entre duas glaciações."
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "question": "Qual evidência mais reforça que essa linhagem era uma espécie separada?",
+      "options": [
+        "O tamanho grande dos fragmentos de osso",
+        "Quase nenhum cruzamento com bisões e auroques da mesma região",
+        "O fato de os ossos estarem dentro de uma caverna",
+        "Ter vivido há menos tempo que os iaques atuais"
+      ]
+    },
+    {
+      "type": "end",
+      "title": "Curtiu essa história?",
+      "cta": [
+        "💾 Salve para usar em aula ou revisar",
+        "📤 Envie para quem ama a Era do Gelo",
+        "💬 Comente sua resposta do teste"
+      ]
+    }
+  ]
+}
